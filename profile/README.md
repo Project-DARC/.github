@@ -1,6 +1,6 @@
 ## Welcome to Project DARC Organization! 👋
 
-Greetings from DARC Team! 🌞 We're your friendly neighborhood tech geeks building the future of decentralized organization with Project DARC (Decentralized Autonomous Regulated Corporation).
+Greetings from DARC Team! 🌞 We're your friendly neighborhood tech geeks building the future of crypto organization with Project DARC (Decentralized Autonomous Regulated Corporation).
 
 ### About Us
 
@@ -18,4 +18,4 @@ Excited about the decentralized future? So are we! We're currently in the early 
 
 Ready to dive in? Join our Telegram group to connect with our community and learn more about the project: [Project DARC Telegram](https://t.me/projectdarc)
 
-Let's shape the future of decentralized finance together! 🚀
+Let's shape the future of crypto organization together! 🚀
